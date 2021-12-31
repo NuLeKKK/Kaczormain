@@ -1,0 +1,31 @@
+{
+  
+  "default_prefix": "kv12",
+
+    "owners": "726297499698069618",
+    
+
+
+   "guildid": "787315610102530048",
+   "emoji": {
+        "play": "▶️",
+        "stop": "⏹️",
+        "queue": "📄",
+        "success": "☑️",
+        "repeat": "🔁",
+        "error": "❌",
+ "YOUTUBE_API_KEY": "",
+ "premium": "",
+ "PREFIX": "kv12",
+ "mongodb": "",
+ "database": "",
+ "embedcolor": "BLUE",
+ "EMOJI_ARROW":"🔄",
+ "WELCOME_CHANNEL": "914892406871175188",
+    "QUEUE_LIMIT": 2,
+    "owners": "726297499698069618",
+    "AME_API": "",
+    "COLOR": "00FFFF",
+    "mongourl": ""
+}
+}
